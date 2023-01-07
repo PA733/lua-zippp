@@ -36,3 +36,6 @@ build
 
 #VSCode configuration directory
 .vscode
+
+#VS temp directory
+.vs

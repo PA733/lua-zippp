@@ -1,0 +1,3 @@
+[submodule "third-party/bee.lua"]
+	path = third-party/bee.lua
+	url = https://github.com/actboy168/bee.lua.git
